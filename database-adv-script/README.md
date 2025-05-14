@@ -11,5 +11,17 @@ This directory contains advanced SQL join queries for the ALX Airbnb database pr
 - List all properties and their reviews, even those without any reviews.
 - Display all users and all bookings, even if there's no association between them.
 
+# Subqueries - ALX Airbnb Database
+
+This folder contains advanced SQL subqueries for the ALX Airbnb database project.
+
+## Files
+- `subqueries.sql`: SQL queries using correlated and non-correlated subqueries.
+- `README.md`: Documentation and purpose of the queries.
+
+## Queries
+- ✅ Properties with average rating > 4.0 (non-correlated subquery)
+- ✅ Users who have made more than 3 bookings (correlated subquery)
+
 ## Author
 Cheikh (Mai 2025)
