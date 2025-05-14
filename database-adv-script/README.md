@@ -23,5 +23,13 @@ This folder contains advanced SQL subqueries for the ALX Airbnb database project
 - ✅ Properties with average rating > 4.0 (non-correlated subquery)
 - ✅ Users who have made more than 3 bookings (correlated subquery)
 
+# Aggregations and Window Functions - ALX Airbnb Database
+
+This file contains SQL queries for aggregate and window functions used in the ALX Airbnb database project.
+
+## Queries
+- ✅ Total bookings per user using COUNT and GROUP BY
+- ✅ Ranking of properties by total bookings using RANK window function
+
 ## Author
 Cheikh (Mai 2025)
